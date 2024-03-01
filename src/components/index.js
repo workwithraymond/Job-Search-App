@@ -3,6 +3,7 @@ import ChartsContainer from './ChartsContainer';
 import FormRow from './FormRow';
 import FormRowSelect from './FormRowSelect';
 import JobsContainer from './JobsContainer';
+import Loading from './Loading';
 import Logo from './Logo';
 import Navbar from './Navbar';
 import SearchContainer from './SearchContainer';
@@ -15,6 +16,7 @@ export {
   Navbar,
   SmallSidebar,
   BigSidebar,
+  Loading,
   FormRowSelect,
   JobsContainer,
   SearchContainer,

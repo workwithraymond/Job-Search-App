@@ -15,7 +15,7 @@ const Landing = () => {
             {/* info */}
             <div className='info'>
                 <h1>job <span>tracking</span> app</h1>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                <p>Welcome to job search.</p>
                 <Link to='/register' className='btn btn-hero'>Login/Register</Link>
             </div>
             <img src={main} alt="job hunt" className='img main-img'/>
